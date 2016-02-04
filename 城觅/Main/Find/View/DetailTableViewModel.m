@@ -1,0 +1,15 @@
+
+
+//
+//  DetailTableViewModel.m
+//  城觅
+//
+//  Created by huiwen on 15/12/30.
+//  Copyright © 2015年 Allen. All rights reserved.
+//
+
+#import "DetailTableViewModel.h"
+
+@implementation DetailTableViewModel
+
+@end

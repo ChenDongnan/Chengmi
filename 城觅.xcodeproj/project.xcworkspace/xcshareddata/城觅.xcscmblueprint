@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "023D61567EEF4836BF9A74419515BB6ADCCF63C5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A46B40170F66B5A5CAB3E17A2866C342B384E4DB" : 0,
+    "2135C27CAEA89960978B6511C418651F0D0AF8A3" : 0,
+    "023D61567EEF4836BF9A74419515BB6ADCCF63C5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AE402C49-B7C0-4211-9BB7-C8B4CE58C41F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A46B40170F66B5A5CAB3E17A2866C342B384E4DB" : "",
+    "2135C27CAEA89960978B6511C418651F0D0AF8A3" : "..\/..\/%E6%88%91%E7%9A%84%E9%A1%B9%E7%9B%AE%E4%BA%8C\/HCWeibo\/HCWeibo",
+    "023D61567EEF4836BF9A74419515BB6ADCCF63C5" : "newCity\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "城觅",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "城觅.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/allexc\/newCity.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "023D61567EEF4836BF9A74419515BB6ADCCF63C5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ChenDongnan\/HCWeibo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2135C27CAEA89960978B6511C418651F0D0AF8A3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/allexc\/CityFind.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A46B40170F66B5A5CAB3E17A2866C342B384E4DB"
+    }
+  ]
+}
